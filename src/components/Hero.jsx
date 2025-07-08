@@ -12,7 +12,7 @@ const Hero = () => {
         </p>
         <div className="hero-buttons">
           <a href="#projects" className="btn">View Projects</a>
-          <a href="/Manasa_Resume_.pdf" className="btn" download>Download Resume</a>
+          <a href="/portfolio/Manasa_Resume_.pdf" className="btn" download>Download Resume</a>
         </div>
       </div>
     </section>
