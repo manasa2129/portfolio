@@ -13,7 +13,7 @@ const Education = () => {
           <p className="details">Specialization in UI/UX Design, Web Development, and Human-Computer Interaction.</p>
         </div>
         <div className="education-item">
-          <h3>Diploma in Compu</h3>
+          <h3>Diploma in Electroics and Communication Engineering</h3>
           <p className="institute">Smt Durgabai Deshmukh Govt. Women's Technical Training Institute</p>
           <p className="duration">2019 - 2022</p>
           <p className="details">Covered fundamentals of engineering and concepts.</p>
