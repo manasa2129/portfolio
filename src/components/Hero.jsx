@@ -12,7 +12,7 @@ const Hero = () => {
         </p>
         <div className="hero-buttons">
           <a href="#projects" className="btn">View Projects</a>
-          <a href="/portfolio/Manasa_Resume._.pdf" className="btn" type="application/pdf" download>Download Resume</a>
+          <a href="/portfolio/Manasa_Resume_e.pdf" className="btn" type="application/pdf" download>Download Resume</a>
         </div>
       </div>
     </section>
@@ -20,4 +20,5 @@ const Hero = () => {
 };
 
 export default Hero;
+
 
